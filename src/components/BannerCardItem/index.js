@@ -5,7 +5,7 @@ import './src/components/BannerCardItem/index.css'
 
 const BannerCardItem=(props)=>
 {
-const {BannerDetails  keyId}=props;
+const {BannerDetails , keyId}=props;
 const{  headerText,description,className}=BannerDetails;
 return(
     <li  className={className}>
