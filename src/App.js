@@ -1,5 +1,5 @@
 import './App.css'
-import BannerCardItem from './src/components/BannerCardItem'
+import BannerCardItem from './components/BannerCardItem'
 
 const bannerCardsList = [
   {
